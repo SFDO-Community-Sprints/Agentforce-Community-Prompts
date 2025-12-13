@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This team was established during the Agentforce Nonprofit Community Sprint in December 2025\. It was initially formed to extend the Prospect Research Agent. During the course of our discovery, we identified several queries that a Nonprofit may likely use. 
+This team was established during the Agentforce Nonprofit Community Sprint in December 2025\. It was initially formed to extend the Prospect Research Agent. During the course of our discovery, we identified several queries that a Nonprofit may likely use, which are documented as [Sample Prompts Library](https://github.com/SFDO-Community-Sprints/Agentforce-Community-Prompts/wiki/Sample-Prompts-Library). 
 
 ## **Vision & Goals**
 
@@ -20,7 +20,7 @@ Nonprofit, Education
 
 ## **How to Contribute:**
 
-* Way 1\. Continue to add real-life questions to spur use case ideation  
+* Way 1\. Continue to add real-life questions to the [Sample Prompts Library](https://github.com/SFDO-Community-Sprints/Agentforce-Community-Prompts/wiki/Sample-Prompts-Library) to spur use case ideation  
 * Way 2\. Create instructions for agent configuration based on a question
 
 ## **Project Resources and Documentation**
